@@ -1,3 +1,1 @@
-$(window).on("load", function () {
-  $("#target").addClass("heading");
-});
+$("#target").addClass("heading");
